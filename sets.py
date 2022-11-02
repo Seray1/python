@@ -31,4 +31,6 @@ cars.remove("toyota")
 print(cars)
 
 
-#NOte; in 
+#we use len to check the length of the  sequence 
+
+print(f"i have {len(cars)} cars")
