@@ -18,5 +18,7 @@
 # another type of data type is set which is a collection of unique value, it is worthy to note that while list and tuple are orderly,
 # set is not
 
+#in other to check the length of any sequence we use len
+
 
 
